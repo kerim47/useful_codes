@@ -1,0 +1,14 @@
+$HOME/main_folder/ProgrammingCodes/c/
+$HOME/main_folder/ProgrammingCodes/py/
+$HOME/carbon-lang/
+$HOME/.autojump.txt
+$HOME/.config/lvim/
+$HOME/DataStructures/
+$HOME/
+/usr/bin/
+$WINHOME/Desktop/main_folder/DataManipulation/
+$WINHOME/
+$WINHOME/Desktop/
+$WINHOME/Desktop/main_folder/
+$HOME/deneme/
+$HOME/deneme/autojum.py
