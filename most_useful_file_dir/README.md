@@ -133,7 +133,7 @@ optional arguments:
 `-s`, --show            Dosyalarin dizin, dosya ve hicbiri olup olmadigina bakar.
 `-u`, --unique          Argumant dosyasını unique yap
 
-[Example](https://github.com/kerim47/useful_codes/example.png) 
+[Example]([https://github.com/kerim47/useful_codes/example.png](https://github.com/kerim47/useful_codes/blob/main/most_useful_file_dir/example.png)) 
 
 Ayrıca usernames.toml dosyasi dizinlere yoluna ihtiyac duyacaktir.
 
