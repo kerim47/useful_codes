@@ -57,15 +57,6 @@ SUANDA DESTEKLENENLER
 Sisteminizde `fzf` programi olmalidir. fzf programina ihtiyac duymaktadir.
 
 Adimlar
-
-```bash
-git clone ...
-```
-
-```bash
-cd ...
-```
-
 en çok kullanılanlar listesi `$HOME/.autojump.txt` dizinine eklenmektedir.
 --file yada -f ekleyerek cdg fonksiyonunu bash dosyanıza ekleyebilirsiniz. 
 varsayılan olarak `~/.bash_profile` olarak kaydedilmistir.
