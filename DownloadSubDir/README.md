@@ -1,8 +1,8 @@
-## Githubtan Alt Dizinde Bulunan Dosyaları Silme
+## Githubtan Alt Dizinde Bulunan Dosyaları İndirme
 
 ## Açıklama
 
-Github'tan alt dizindeki dosyaları silmek istediğinizde bu Python betiği tam size göre! Sadece indirmek istediğiniz dizinin URL'sini yapıştırmanız yeterli.
+Github'tan alt dizindeki dosyaları indirmek istediğinizde bu Python betiği tam size göre! Sadece indirmek istediğiniz dizinin URL'sini yapıştırmanız yeterli.
 
 Bu Python betiği, GitHub deposundan dosya veya dizin indirmek ve SVN ile işlemler gerçekleştirmek için kullanılabilir. 
 
